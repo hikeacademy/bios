@@ -52,7 +52,7 @@ const bios = {
     role: 'Cientista da Computação',
     birth: '1906',
     death: '1992',
-    photo: '/images/hopper2.png',
+    photo: '/images/hopper.png',
     background: 'Grace Murray Hopper foi uma analista de sistemas da Marinha dos Estados Unidos nas décadas de 1940 e 1950 e almirante. Foi ela quem criou a linguagem de programação Flow-Matic, hoje extinta. Esta linguagem serviu como base para a criação do COBOL. Ela também foi uma das primeiras programadoras do Harvard Mark I em 1944. É dito que é de autoria de Hopper o termo "bug" usado para designar uma falha num código-fonte. Surgiu quando Grace tentava achar um problema no seu computador. Quando descobriu o problema, ela percebeu que havia um inseto morto no computador. Desde então o termo bug passou a ser usado. Hopper é conhecida como uma das pessoas mais importantes para o mundo da computação.',
     quote: 'Com frequência é mais fácil pedir perdão que pedir por permissão.',
     highlights: ['Juntou-se ao time do Mark I', 'Serviu como diretora do Grupo de Linguages de Programação da Marinha', 'Criou a base do COBOL'],
