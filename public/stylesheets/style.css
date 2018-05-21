@@ -58,6 +58,7 @@ footer p {
     justify-content: center;
     align-items: flex-end;
     width: 100%;
+    min-height: 100%;
     padding-top: 50px;
     margin: 0 auto;
     background-color: #bdc3c7;
