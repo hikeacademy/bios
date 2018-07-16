@@ -72,9 +72,10 @@ const bios = {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { bios: bios });
+  res.render('index', {bios: bios});
 });
 
+/* GET bio page using character id. */
 router.get('/:id', function(req, res, next) {
   const id = req.params.id;
   res.render('bio', bios[id]);
